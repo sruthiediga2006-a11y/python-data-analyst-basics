@@ -1,0 +1,16 @@
+Student,Subject,Marks,Attendance,Result
+Sruthi,Python,85,92,Pass
+Divya,Python,78,88,Pass
+Tejaswini,Python,65,72,Pass
+Sandhya,Python,45,68,Fail
+Saai Sree,Python,90,95,Pass
+Sruthi,Java,82,90,Pass
+Divya,Java,75,85,Pass
+Tejaswini,Java,68,78,Pass
+Sandhya,Java,52,70,Pass
+Saai Sree,Java,94,96,Pass
+Sruthi,Data Analysis,88,93,Pass
+Divya,Data Analysis,80,89,Pass
+Tejaswini,Data Analysis,70,80,Pass
+Sandhya,Data Analysis,48,65,Fail
+Saai Sree,Data Analysis,92,97,Pass
